@@ -10,3 +10,5 @@ VOU CAMINHAR
 =======
 ÇKÇK
 >>>>>>> be5e72e477ad6165b20ed782f4cf7c5b4134f2d4
+BBB,BNBN
+JA VOU
